@@ -1,0 +1,23 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/findRideButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Find a Ride"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/offerRideButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Offer a Ride"
+        android:layout_margin="8dp"/>
+</LinearLayout>

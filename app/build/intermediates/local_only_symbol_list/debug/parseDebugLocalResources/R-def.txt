@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonOfferRide
+id editTextDateAndTime
+id editTextPricePerSeat
+id editTextStartDestination
+id findRideButton
+id listViewRides
+id main
+id offerRideButton
+layout activity_main
+layout find_ride
+layout offer_ride
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.RoarRide
+style Theme.RoarRide
+xml backup_rules
+xml data_extraction_rules
